@@ -1,0 +1,112 @@
+/** Sticky Social Media Buttons **/
+.icon-bar {position:fixed !important; top: 40%; -webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);transform: translateY(-50%);}
+  
+  .icon-bar a {display: block;	text-align: center;	padding: 12px;	
+	transition: all 0.3s ease;	color: white;	font-size: 25px; width: auto; height: auto; border-radius:10px; margin: 5px 5px; }
+  
+  .icon-bar a:hover {	background-color: #000;  }
+    
+  .call {	background: #14026f;	color: white;  }
+
+  .whatsapp { background-color:#25d366;	color:#FFF;}
+    
+  /** Sticky Social Media Buttons End**/
+
+.thorough {width:100%;}
+
+.mainscreen-left {width:45%; margin-left: 5%;}
+.mainscreen-right {width:45%; margin-right: 0px;}
+
+.display-12 {  font-size: 5rem;        font-weight: 300;        line-height: 1;    }
+
+.display-14 {        font-size: 3rem;        font-weight: 200;        line-height: 1;    }
+ 
+.kaps{height:400px;}
+
+.dude{font-size:1.18rem;font-weight:300}
+
+.row-cust{width:100%;   display:block;  padding: 5px 5px;}
+
+.reg-cust{width:100%; padding: 20px;}
+
+.col-sm-cust{ padding-right: 5px; padding-left: 5px; margin-left: 20px; float:left;}
+
+.col-sm-cust-right{padding-right: 5px; padding-left: 5px;  float:right; margin-left: 20px;}
+
+.flex-cust{ display: flex; height:auto;  width:100%; flex-flow: column wrap; background-color: whitesmoke;}
+
+.flex-container-cust{height: 600px;}
+
+.flex-container-cust > div{ background-color: #fff; width: 40%;}
+
+.box-cust-left{  float:left;  margin-left: 5%;   margin-top:4%;}
+
+.box-cust-right{    float:right;    margin-right:5%;    margin-top:20px;}
+
+.box-cust-cust-left{    float:left;    margin-left: 5%;    margin-top:5%;}
+
+.box-cust-cust-right{    float:right;    margin-right:5%;    margin-top:5%;}
+
+.img-box-left{    width: 100%;    height:100%;}
+
+.btn-cust{    background-color: crimson;    color:white;    float:left;    margin-left: 5%;}
+
+.btn-submit-cust{    background-color: green;    color:white;    float:right;    margin-right: 5%;}
+
+.btn-custom {color:#fff;background-color:#28a745;border-color:#28a745; font-size: small;}
+
+.btn-custom:hover{color:#fff;background-color:#218838;border-color:#1e7e34}
+.btn-custom.focus,.btn-custom:focus{color:#fff;background-color:#218838;border-color:#1e7e34;box-shadow:0 0 0 .2rem rgba(72,180,97,.5)}
+
+#photo { }
+
+#row-row-cust {    min-height: 560px;}
+
+.flex-box-admin{    display: block;}
+
+.admin-leftpane{    float:left;    width:30%;    border: 5px solid rgba(2, 2, 44, 0.148);  border-radius: 2%;  height: auto;}
+
+.flex-admin {  display: flex;  flex-wrap: wrap;  font-size: 30px;  text-align: center;  width:70%;  border: 5px solid rgba(39, 2, 14, 0.189); border-radius: 2%;}
+
+.issuer {display: flex;  flex-wrap: wrap;  font-size: 30px;  text-align: center;  width:100%;  border: 5px solid rgba(39, 2, 14, 0.189); border-radius: 2%; 
+  padding:2% 2%;}
+
+.flex-admin .h2{    width:100%;    float:left;}
+.issuer .h2{    width:100%;    float:left;}
+
+.flex-item-admin {  background-color: #f1f1f1;  padding: 10px;  flex: 40%;  border-radius: 8%;  margin: 5px 5px;}
+
+.flex-admin table{    font-size: 20px;    font-weight: 200;}
+.issuer table{    font-size: 20px;    font-weight: 200;}
+
+.heading-ad{    height: 70px;    background-color: rgba(255, 182, 193, 0.074);    margin-bottom: 20px;}
+
+.heading-ad h1{    padding: 10px;    border-radius: 5px;}
+
+.left-date{    margin-left: 10px;    width:45%;    font-size: 20px;    margin-bottom:5px;}
+.right-stock{    margin-left: 0px;    width:45%;    font-size: 20px;    margin-bottom:5px;}
+
+.left-date div{    background-color: rgb(1, 65, 65);    color:white;    width:90%;    border-radius: 10px;    padding: 2px 2px; margin-left: 10%;}
+.right-stock div{    background-color: rgb(17, 0, 128);    color:white;    width:90%;    border-radius: 10px;    padding: 2px 2px; margin-left: 15%; margin-right: 0%;}
+
+.box-mid-index{display: flex; flex-wrap: wrap; font-size: 20px; text-align: center; margin-left: 40px;}
+.sub-box-index {flex:25%; padding: 20px;}
+.special {height:80px; background-color: #f1f1f100;}
+.specialtwo {display: none;}
+.cust-form{margin-left: 10px; margin-right: 10px;}
+.cust-cust-form {width:60%; margin-left:20%; border: 2px solid gray; }
+.img-thumbnail {border-radius: 20%;}
+.galley-chamber {width:100%; display:inline; background-color: antiquewhite; margin: 2px 2px; padding: 10px 10px; border: 2px solid rgba(0, 0, 0, 0.082);}
+.wardroom-chamber {width:100%; display:inline; background-color: rgba(215, 215, 250, 0.61); margin: 2px 2px; padding: 10px 10px; border: 2px solid rgba(0, 0, 0, 0.082);}
+.galley-chamber h3 {font-size: 25px; border: 1 px solid rgba(0, 0, 0, 0.178);}
+
+.chamber-item {width: 30%; float:left;}
+.chamber-button {width: 100%;}
+.booking-chamber {width:100%; display:inline; background-color: rgba(250, 229, 215, 0.363); margin: 2px 2px; padding: 10px 10px; border: 2px solid rgba(0, 0, 0, 0.082);}
+
+.payment-chamber {width:100%; display:inline; background-color: rgba(215, 249, 250, 0.363); margin: 2px 2px; padding: 10px 10px; border: 2px solid rgba(0, 0, 0, 0.082);}
+
+.marque {width:70%; direction:left; height:50px; font-size: large ; color:white;}
+.marq {width: 100%;background-color: rgb(0, 0, 47); height: 50px;}
+
+
